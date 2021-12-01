@@ -3,9 +3,7 @@
   <h1 style="text-align:center;color:blue;"> Ryerson University</h1>
   <div class="box">
     <h2>Introduction</h2>
-    <div id="intro">
-      <p>{{ message }}</p>
-    </div>
+    
 
   </div>
 </template>
