@@ -1,6 +1,8 @@
 <template>
+  
+  <h1 style="text-align:center;color:red;"> The tutor for vue.js!</h1>
   <div>
-    <p>Hello</p>
+    <h2></h2>
   </div>
 </template>
 
@@ -11,5 +13,10 @@ export default {
 </script>
 
 <style>
+div{
+  width:100%;
+  border: 1px solid black;
+}
+
 
 </style>
